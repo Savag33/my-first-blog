@@ -5,8 +5,4 @@ myvenv
 db.sqlite3
 /static
 .DS_Store
-djangogirls.iml
-modules.xml
-workspace.xml
-Project_Default.xml
-profiles_settings.xml
+.idea

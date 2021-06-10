@@ -5,8 +5,3 @@ myvenv
 db.sqlite3
 /static
 .DS_Store
-.idea/djangogirls.iml
-.idea/modules.xml
-.idea/workspace.xml
-.idea/inspectionProfiles/Project_Default.xml
-.idea/inspectionProfiles/profiles_settings.xml
